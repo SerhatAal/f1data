@@ -4,6 +4,11 @@
     "location": "Melbourne, Australia",
     "timestamp": 1742101200,
     "qualifying": { "timestamp": 1742018400 },
+    "free_practice": {
+      "fp1": 1741896000,
+      "fp2": 1741932000,
+      "fp3": 1741982400
+    },
     "latitude": -37.8497,
     "longitude": 144.968
   },
@@ -16,6 +21,9 @@
       "sprint_qualifying": 1742545800,
       "sprint_race": 1742616000
     },
+    "free_practice": {
+      "fp1": 1742504400
+    },
     "latitude": 31.338,
     "longitude": 121.2197
   },
@@ -24,6 +32,11 @@
     "location": "Suzuka, Japan",
     "timestamp": 1743919200,
     "qualifying": { "timestamp": 1743836400 },
+    "free_practice": {
+      "fp1": 1743800400,
+      "fp2": 1743836400,
+      "fp3": 1743886800
+    },
     "latitude": 34.8431,
     "longitude": 136.5419
   },
@@ -32,6 +45,11 @@
     "location": "Sakhir, Bahrain",
     "timestamp": 1744560000,
     "qualifying": { "timestamp": 1744477200 },
+    "free_practice": {
+      "fp1": 1744441200,
+      "fp2": 1744477200,
+      "fp3": 1744527600
+    },
     "latitude": 26.0325,
     "longitude": 50.5106
   },
@@ -40,6 +58,11 @@
     "location": "Jeddah, Saudi Arabia",
     "timestamp": 1745172000,
     "qualifying": { "timestamp": 1745085600 },
+    "free_practice": {
+      "fp1": 1745052000,
+      "fp2": 1745085600,
+      "fp3": 1745136000
+    },
     "latitude": 21.5433,
     "longitude": 39.1728
   },
@@ -52,6 +75,9 @@
       "sprint_qualifying": 1746217800,
       "sprint_race": 1746288000
     },
+    "free_practice": {
+      "fp1": 1746172800
+    },
     "latitude": 25.958,
     "longitude": -80.2389
   },
@@ -60,6 +86,11 @@
     "location": "Imola, Italy",
     "timestamp": 1747573200,
     "qualifying": { "timestamp": 1747490400 },
+    "free_practice": {
+      "fp1": 1747455600,
+      "fp2": 1747490400,
+      "fp3": 1747540800
+    },
     "latitude": 44.3439,
     "longitude": 11.7167
   },
@@ -68,6 +99,11 @@
     "location": "Monte Carlo, Monaco",
     "timestamp": 1748178000,
     "qualifying": { "timestamp": 1748095200 },
+    "free_practice": {
+      "fp1": 1748060400,
+      "fp2": 1748095200,
+      "fp3": 1748145600
+    },
     "latitude": 43.7347,
     "longitude": 7.4206
   },
@@ -76,6 +112,11 @@
     "location": "Barcelona, Spain",
     "timestamp": 1748782800,
     "qualifying": { "timestamp": 1748700000 },
+    "free_practice": {
+      "fp1": 1748665200,
+      "fp2": 1748700000,
+      "fp3": 1748750400
+    },
     "latitude": 41.57,
     "longitude": 2.2611
   },
@@ -84,6 +125,11 @@
     "location": "Montreal, Canada",
     "timestamp": 1750010400,
     "qualifying": { "timestamp": 1749931200 },
+    "free_practice": {
+      "fp1": 1749896400,
+      "fp2": 1749931200,
+      "fp3": 1749981600
+    },
     "latitude": 45.5048,
     "longitude": -73.558
   },
@@ -92,6 +138,11 @@
     "location": "Spielberg, Austria",
     "timestamp": 1751202000,
     "qualifying": { "timestamp": 1751119200 },
+    "free_practice": {
+      "fp1": 1751084400,
+      "fp2": 1751119200,
+      "fp3": 1751169600
+    },
     "latitude": 47.2197,
     "longitude": 14.7647
   },
@@ -100,6 +151,11 @@
     "location": "Silverstone, UK",
     "timestamp": 1751810400,
     "qualifying": { "timestamp": 1751724000 },
+    "free_practice": {
+      "fp1": 1751689200,
+      "fp2": 1751724000,
+      "fp3": 1751774400
+    },
     "latitude": 52.0786,
     "longitude": -1.0169
   },
@@ -112,6 +168,9 @@
       "sprint_qualifying": 1753453800,
       "sprint_race": 1753524000
     },
+    "free_practice": {
+      "fp1": 1753416000
+    },
     "latitude": 50.4372,
     "longitude": 5.9714
   },
@@ -120,6 +179,11 @@
     "location": "Budapest, Hungary",
     "timestamp": 1754226000,
     "qualifying": { "timestamp": 1754143200 },
+    "free_practice": {
+      "fp1": 1754108400,
+      "fp2": 1754143200,
+      "fp3": 1754193600
+    },
     "latitude": 47.5789,
     "longitude": 19.2486
   },
@@ -128,6 +192,11 @@
     "location": "Zandvoort, Netherlands",
     "timestamp": 1756645200,
     "qualifying": { "timestamp": 1756558800 },
+    "free_practice": {
+      "fp1": 1756524000,
+      "fp2": 1756558800,
+      "fp3": 1756609200
+    },
     "latitude": 52.3889,
     "longitude": 4.5409
   },
@@ -136,6 +205,11 @@
     "location": "Monza, Italy",
     "timestamp": 1757250000,
     "qualifying": { "timestamp": 1757167200 },
+    "free_practice": {
+      "fp1": 1757132400,
+      "fp2": 1757167200,
+      "fp3": 1757217600
+    },
     "latitude": 45.6156,
     "longitude": 9.2811
   },
@@ -144,6 +218,11 @@
     "location": "Baku, Azerbaijan",
     "timestamp": 1758452400,
     "qualifying": { "timestamp": 1758369600 },
+    "free_practice": {
+      "fp1": 1758334800,
+      "fp2": 1758369600,
+      "fp3": 1758420000
+    },
     "latitude": 40.3725,
     "longitude": 49.8533
   },
@@ -152,6 +231,11 @@
     "location": "Singapore",
     "timestamp": 1759665600,
     "qualifying": { "timestamp": 1759582800 },
+    "free_practice": {
+      "fp1": 1759548000,
+      "fp2": 1759582800,
+      "fp3": 1759633200
+    },
     "latitude": 1.2914,
     "longitude": 103.864
   },
@@ -164,6 +248,9 @@
       "sprint_qualifying": 1760736600,
       "sprint_race": 1760806800
     },
+    "free_practice": {
+      "fp1": 1760692800
+    },
     "latitude": 30.1328,
     "longitude": -97.6411
   },
@@ -172,6 +259,11 @@
     "location": "Mexico City, Mexico",
     "timestamp": 1761508800,
     "qualifying": { "timestamp": 1761426000 },
+    "free_practice": {
+      "fp1": 1761391200,
+      "fp2": 1761426000,
+      "fp3": 1761476400
+    },
     "latitude": 19.4042,
     "longitude": -99.0907
   },
@@ -184,6 +276,9 @@
       "sprint_qualifying": 1762543800,
       "sprint_race": 1762614000
     },
+    "free_practice": {
+      "fp1": 1762506000
+    },
     "latitude": -23.7036,
     "longitude": -46.6997
   },
@@ -192,6 +287,11 @@
     "location": "Las Vegas, USA",
     "timestamp": 1763874000,
     "qualifying": { "timestamp": 1763787600 },
+    "free_practice": {
+      "fp1": 1763752800,
+      "fp2": 1763787600,
+      "fp3": 1763838000
+    },
     "latitude": 36.1147,
     "longitude": -115.1728
   },
@@ -204,6 +304,9 @@
       "sprint_qualifying": 1764354600,
       "sprint_race": 1764428400
     },
+    "free_practice": {
+      "fp1": 1764318000
+    },
     "latitude": 25.49,
     "longitude": 51.45
   },
@@ -212,7 +315,12 @@
     "location": "Yas Marina, UAE",
     "timestamp": 1765116000,
     "qualifying": { "timestamp": 1765033200 },
+    "free_practice": {
+      "fp1": 1764998400,
+      "fp2": 1765033200,
+      "fp3": 1765083600
+    },
     "latitude": 24.4672,
     "longitude": 54.6031
   }
-] 
+]
