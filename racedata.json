@@ -285,12 +285,12 @@
   {
     "circuit": "Las Vegas Grand Prix",
     "location": "Las Vegas, USA",
-    "timestamp": 1763874000,
-    "qualifying": { "timestamp": 1763787600 },
+    "timestamp": 1763784000,
+    "qualifying": { "timestamp": 1763697600 },
     "free_practice": {
-      "fp1": 1763752800,
-      "fp2": 1763787600,
-      "fp3": 1763838000
+      "fp1": 1763598600,
+      "fp2": 1763611200,
+      "fp3": 1763685000
     },
     "latitude": 36.1147,
     "longitude": -115.1728
@@ -298,14 +298,14 @@
   {
     "circuit": "Qatar Grand Prix",
     "location": "Lusail, Qatar",
-    "timestamp": 1764522000,
-    "qualifying": { "timestamp": 1764442800 },
+    "timestamp": 1764518400,
+    "qualifying": { "timestamp": 1764439200 },
     "sprint": {
-      "sprint_qualifying": 1764354600,
-      "sprint_race": 1764428400
+      "sprint_qualifying": 1764351000,
+      "sprint_race": 1764424800
     },
     "free_practice": {
-      "fp1": 1764318000
+      "fp1": 1764336600
     },
     "latitude": 25.49,
     "longitude": 51.45
@@ -313,12 +313,12 @@
   {
     "circuit": "Abu Dhabi Grand Prix",
     "location": "Yas Marina, UAE",
-    "timestamp": 1765116000,
-    "qualifying": { "timestamp": 1765033200 },
+    "timestamp": 1765112400,
+    "qualifying": { "timestamp": 1765029600 },
     "free_practice": {
-      "fp1": 1764998400,
-      "fp2": 1765033200,
-      "fp3": 1765083600
+      "fp1": 1764927000,
+      "fp2": 1764939600,
+      "fp3": 1765017000
     },
     "latitude": 24.4672,
     "longitude": 54.6031
