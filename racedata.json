@@ -322,5 +322,329 @@
     },
     "latitude": 24.4672,
     "longitude": 54.6031
+  },
+  {
+    "circuit": "Australian Grand Prix",
+    "location": "Melbourne, Australia",
+    "timestamp": 1772942400,
+    "qualifying": { "timestamp": 1772859600 },
+    "free_practice": {
+      "fp1": 1772760600,
+      "fp2": 1772773200,
+      "fp3": 1772847000
+    },
+    "latitude": -37.8497,
+    "longitude": 144.968
+  },
+  {
+    "circuit": "Chinese Grand Prix",
+    "location": "Shanghai, China",
+    "timestamp": 1773558000,
+    "qualifying": { "timestamp": 1773471600 },
+    "sprint": {
+      "sprint_qualifying": 1773387000,
+      "sprint_race": 1773457200
+    },
+    "free_practice": {
+      "fp1": 1773372600
+    },
+    "latitude": 31.338,
+    "longitude": 121.2197
+  },
+  {
+    "circuit": "Japanese Grand Prix",
+    "location": "Suzuka, Japan",
+    "timestamp": 1774764000,
+    "qualifying": { "timestamp": 1774677600 },
+    "free_practice": {
+      "fp1": 1774578600,
+      "fp2": 1774591200,
+      "fp3": 1774665000
+    },
+    "latitude": 34.8431,
+    "longitude": 136.5419
+  },
+  {
+    "circuit": "Bahrain Grand Prix",
+    "location": "Sakhir, Bahrain",
+    "timestamp": 1773331200,
+    "qualifying": { "timestamp": 1773248400 },
+    "free_practice": {
+      "fp1": 1773145800,
+      "fp2": 1773158400,
+      "fp3": 1773235800
+    },
+    "latitude": 26.0325,
+    "longitude": 50.5106
+  },
+  {
+    "circuit": "Saudi Arabian Grand Prix",
+    "location": "Jeddah, Saudi Arabia",
+    "timestamp": 1773943200,
+    "qualifying": { "timestamp": 1773856800 },
+    "free_practice": {
+      "fp1": 1773757800,
+      "fp2": 1773770400,
+      "fp3": 1773844200
+    },
+    "latitude": 21.5433,
+    "longitude": 39.1728
+  },
+  {
+    "circuit": "Miami Grand Prix",
+    "location": "Miami, USA",
+    "timestamp": 1777842000,
+    "qualifying": { "timestamp": 1777755600 },
+    "sprint": {
+      "sprint_qualifying": 1777671000,
+      "sprint_race": 1777741200
+    },
+    "free_practice": {
+      "fp1": 1777656600
+    },
+    "latitude": 25.958,
+    "longitude": -80.2389
+  },
+  {
+    "circuit": "Canadian Prix",
+    "location": "Montreal, Canada",
+    "timestamp": 1779649200,
+    "qualifying": { "timestamp": 1779570000 },
+    "free_practice": {
+      "fp1": 1779474600,
+      "fp2": 1779487200,
+      "fp3": 1779557400
+    },
+    "latitude": 45.501648,
+    "longitude": -73.528145
+  },
+  {
+    "circuit": "Monaco Grand Prix",
+    "location": "Monte Carlo, Monaco",
+    "timestamp": 1780840800,
+    "qualifying": { "timestamp": 1780758000 },
+    "free_practice": {
+      "fp1": 1780662600,
+      "fp2": 1780675200,
+      "fp3": 1780745400
+    },
+    "latitude": 43.7347,
+    "longitude": 7.4206
+  },
+  {
+    "circuit": "Barcelona Catalunya Grand Prix",
+    "location": "Barcelona, Spain",
+    "timestamp": 1781445600,
+    "qualifying": { "timestamp": 1781362800 },
+    "free_practice": {
+      "fp1": 1781267400,
+      "fp2": 1781280000,
+      "fp3": 1781350200
+    },
+    "latitude": 41.57,
+    "longitude": 2.2611
+  },
+  {
+    "circuit": "Austrian Grand Prix",
+    "location": "Spielberg, Austria",
+    "timestamp": 1782655200,
+    "qualifying": { "timestamp": 1782572400 },
+    "free_practice": {
+      "fp1": 1782477000,
+      "fp2": 1782489600,
+      "fp3": 1782559800
+    },
+    "latitude": 47.2197,
+    "longitude": 14.7647
+  },
+  {
+    "circuit": "British Grand Prix",
+    "location": "Silverstone, UK",
+    "timestamp": 1783263600,
+    "qualifying": { "timestamp": 1783177200 },
+    "free_practice": {
+      "fp1": 1783081800,
+      "fp2": 1783094400,
+      "fp3": 1783164600
+    },
+    "latitude": 52.0786,
+    "longitude": -1.0169
+  },
+  {
+    "circuit": "Belgian Grand Prix",
+    "location": "Spa, Belgium",
+    "timestamp": 1784469600,
+    "qualifying": { "timestamp": 1784386800 },
+    "sprint": {
+      "sprint_qualifying": 1784302200,
+      "sprint_race": 1784372400
+    },
+    "free_practice": {
+      "fp1": 1784287800
+    },
+    "latitude": 50.4372,
+    "longitude": 5.9714
+  },
+  {
+    "circuit": "Hungarian Grand Prix",
+    "location": "Budapest, Hungary",
+    "timestamp": 1785074400,
+    "qualifying": { "timestamp": 1784991600 },
+    "free_practice": {
+      "fp1": 1784896200,
+      "fp2": 1784908800,
+      "fp3": 1784979000
+    },
+    "latitude": 47.5789,
+    "longitude": 19.2486
+  },
+  {
+    "circuit": "Dutch Grand Prix",
+    "location": "Zandvoort, Netherlands",
+    "timestamp": 1787493600,
+    "qualifying": { "timestamp": 1787407200 },
+    "free_practice": {
+      "fp1": 1787311800,
+      "fp2": 1787324400,
+      "fp3": 1787394600
+    },
+    "latitude": 52.3889,
+    "longitude": 4.5409
+  },
+  {
+    "circuit": "Italian Grand Prix",
+    "location": "Monza, Italy",
+    "timestamp": 1788703200,
+    "qualifying": { "timestamp": 1788620400 },
+    "free_practice": {
+      "fp1": 1788525000,
+      "fp2": 1788537600,
+      "fp3": 1788607800
+    },
+    "latitude": 45.6156,
+    "longitude": 9.2811
+  },
+  {
+    "circuit": "Spanish Grand Prix",
+    "location": "Madrid, Spain",
+    "timestamp": 1789308000,
+    "qualifying": { "timestamp": 1789225200 },
+    "free_practice": {
+      "fp1": 1789129800,
+      "fp2": 1789142400,
+      "fp3": 1789212600
+    },
+    "latitude": 40.4167,
+    "longitude": 3.7033
+  },
+  {
+    "circuit": "Azerbaijan Grand Prix",
+    "location": "Baku, Azerbaijan",
+    "timestamp": 1790424000,
+    "qualifying": { "timestamp": 1790341200 },
+    "free_practice": {
+      "fp1": 1790242200,
+      "fp2": 1790254800,
+      "fp3": 1790328600
+    },
+    "latitude": 40.3725,
+    "longitude": 49.8533
+  },
+  {
+    "circuit": "Singapore Grand Prix",
+    "location": "Singapore",
+    "timestamp": 1791723600,
+    "qualifying": { "timestamp": 1791640800 },
+    "free_practice": {
+      "fp1": 1791541800,
+      "fp2": 1791554400,
+      "fp3": 1791628200
+    },
+    "latitude": 1.2914,
+    "longitude": 103.864
+  },
+  {
+    "circuit": "United States Grand Prix",
+    "location": "Austin, USA",
+    "timestamp": 1792954800,
+    "qualifying": { "timestamp": 1792879200 },
+    "sprint": {
+      "sprint_qualifying": 1792794600,
+      "sprint_race": 1792864800
+    },
+    "free_practice": {
+      "fp1": 1792780200
+    },
+    "latitude": 30.1328,
+    "longitude": -97.6411
+  },
+  {
+    "circuit": "Mexican Grand Prix",
+    "location": "Mexico City, Mexico",
+    "timestamp": 1793563200,
+    "qualifying": { "timestamp": 1793480400 },
+    "free_practice": {
+      "fp1": 1793385000,
+      "fp2": 1793397600,
+      "fp3": 1793467800
+    },
+    "latitude": 19.4042,
+    "longitude": -99.0907
+  },
+  {
+    "circuit": "Brazilian Grand Prix",
+    "location": "São Paulo, Brazil",
+    "timestamp": 1794157200,
+    "qualifying": { "timestamp": 1794074400 },
+    "sprint": {
+      "sprint_qualifying": 1793989800,
+      "sprint_race": 1794060000
+    },
+    "free_practice": {
+      "fp1": 1793975400
+    },
+    "latitude": -23.7036,
+    "longitude": -46.6997
+  },
+  {
+    "circuit": "Las Vegas Grand Prix",
+    "location": "Las Vegas, USA",
+    "timestamp": 1795233600,
+    "qualifying": { "timestamp": 1795147200 },
+    "free_practice": {
+      "fp1": 1795048200,
+      "fp2": 1795060800,
+      "fp3": 1795134600
+    },
+    "latitude": 36.1147,
+    "longitude": -115.1728
+  },
+  {
+    "circuit": "Qatar Grand Prix",
+    "location": "Lusail, Qatar",
+    "timestamp": 1795968000,
+    "qualifying": { "timestamp": 1795888800 },
+    "sprint": {
+      "sprint_qualifying": 1795800600,
+      "sprint_race": 1795874400
+    },
+    "free_practice": {
+      "fp1": 1795786200
+    },
+    "latitude": 25.49,
+    "longitude": 51.45
+  },
+  {
+    "circuit": "Abu Dhabi Grand Prix",
+    "location": "Yas Marina, UAE",
+    "timestamp": 1796562000,
+    "qualifying": { "timestamp": 1796479200 },
+    "free_practice": {
+      "fp1": 1796376600,
+      "fp2": 1796389200,
+      "fp3": 1796466600
+    },
+    "latitude": 24.4672,
+    "longitude": 54.6031
   }
 ]
